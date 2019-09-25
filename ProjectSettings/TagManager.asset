@@ -9,6 +9,8 @@ TagManager:
   - alvos
   - barreiraB
   - barreira
+  - esmeralda
+  - item
   layers:
   - Default
   - TransparentFX
